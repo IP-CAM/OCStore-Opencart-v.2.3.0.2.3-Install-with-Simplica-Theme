@@ -43,4 +43,4 @@ Please read the corresponding file (install.txt / upgrade.txt) inside the archiv
 - [Vkontakte] (http://vk.com/myopencartcom)
 - [Twitter] (https://twitter.com/myopencartcom)
 - [YouTube] (https://www.youtube.com/c/MyOpenCart) 
-- 
+
